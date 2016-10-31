@@ -1,0 +1,28 @@
+hr{
+    height: 5px;
+    background-color: #7d97ad;
+
+}
+.img{
+    text-align: center;
+    margin:auto;
+}
+.img1{
+    height: 200px;
+    width: 350px;
+}
+p{
+    color: #2d3c49;
+    font-weight: bold;
+}
+
+.font300{
+	font-family: 'Roboto', sans-serif;
+}
+.font100{
+	font-family: 'Roboto', sans-serif;
+	font-weight: 100;
+}
+.marg{
+	margin-bottom: 30px;
+}
